@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 邮箱：haofan15532503936@gmail.com
 
+CSDN: https://blog.csdn.net/Sunshine_xiaohao
+
 ## 教育背景 ##
 
 **2022.9-2025.6&emsp;北京工业大学&emsp;电子信息专硕（软件工程）&emsp;保研**
