@@ -35,3 +35,7 @@ CSDN: https://blog.csdn.net/Sunshine_xiaohao
 **2020.9-2022.6&emsp;中北大学&emsp;&emsp;&emsp;计算机科学与技术&emsp;&emsp;&emsp;学士**
 
 **2018.9-2020.6&emsp;中北大学&emsp;&emsp;&emsp;探测制导与控制技术**
+
+## 学术论文
+1. 基于机器视觉的航道多目标轨迹跟踪研究，于2023.5.16 被中国计算机学会人工智能会议（CCFAI2023）录用
+2. 一些有意思的工作正在路上...
